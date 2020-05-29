@@ -1,17 +1,17 @@
 .h {
-	height: 18rem;
+	height: 30rem;
 }
 
 .w {
-	width: 18rem;
+	width: 30rem;
 }
 
 .fade-in {
-    animation: fadeIn ease 3s;
-    -webkit-animation: fadeIn ease 3s;
-    -moz-animation: fadeIn ease 3s;
-    -o-animation: fadeIn ease 3s;
-    -ms-animation: fadeIn ease 3s;
+    animation: fadeIn ease 2s;
+    -webkit-animation: fadeIn ease 2s;
+    -moz-animation: fadeIn ease 2s;
+    -o-animation: fadeIn ease 2s;
+    -ms-animation: fadeIn ease 2s;
 }
 @keyframes fadeIn {
     0% {

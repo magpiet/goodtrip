@@ -1,7 +1,0 @@
--Include name
--Include contact information
--Include about me
--Include some a couple projects
--Link to github, linkedin, and handshake
-
-"Hi! My name is Magnus!"

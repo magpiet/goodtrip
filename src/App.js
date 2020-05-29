@@ -1,9 +1,10 @@
 import React from 'react';
-import logo from './logo192.png';
+import logo from './logo512.png';
 import './App.css';
 import 'tachyons';
 import sza from './sza.mp3';
 import Menu from './Menu';
+import {options} from './options';
 
 class App extends React.Component {
   constructor() {
@@ -37,14 +38,14 @@ class App extends React.Component {
      return (
         <div className="App">
             {this.state.route === 'menu' ?
-              <Menu onRouteChange={this.onRouteChange} />
+              <Menu options={options} onRouteChange={this.onRouteChange} />
               :
               <div className="App-header">
-                <p onClick={this.onClickImage} className="fade-in pointer">
+                <p onClick={this.onClickImage} className="fade-in pointer grow">
                   <img src={logo} className="App-logo" alt="logo"/>
                 </p>
                 <div className="typewriter fade-in">
-                  <p onClick={this.playAudio} className="typewriter-text pointer">Welcome! Press the Nazar to join. </p>
+                  <p onClick={this.playAudio} className="typewriter-text pointer">This is a safe space.</p>
                 </div>
               </div>
             } 
