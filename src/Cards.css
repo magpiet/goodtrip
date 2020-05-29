@@ -1,9 +1,6 @@
-.h {
-	height: 28rem;
-}
-
-.w {
-	width: 24rem;
+.size {
+    max-height: 28rem;
+    max-width: 28rem;
 }
 
 .fade-in {
