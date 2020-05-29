@@ -25,7 +25,7 @@ export const options = [
 	image: art,
 	name: 'Art Palette',
 	about: 'Feeling a little creative? Take your imagination and this palette to paint whatever you feel like creating!',
-	link: 'https://kleki.com/'
+	link: 'https://www.youidraw.com/apps/painter/'
 },
 {
 	id: 4,
@@ -39,13 +39,13 @@ export const options = [
 	image: space,
 	name: 'Alan Watts',
 	about: 'Feeling a little dreamy? Here are some words from Alan Watts, a powerful writer and explorer of consciousness!',
-	link: 'https://www.youtube.com/playlist?list=PLDrE8eovyz8DQHrs2BXdVIYgRdRMVsjOb'
+	link: 'https://www.youtube.com/watch?v=h7W6fYbmF8U&list=PLDrE8eovyz8DQHrs2BXdVIYgRdRMVsjOb&index=1'
 },
 {
 	id: 6,
 	image: heart,
 	name: 'Self Care',
-	about: 'Feeling a little down? Take some time to analyze how you are feeling, practice mindfulness, or even meditate!',
+	about: 'Feeling a little down? Take some time to analyze how you are feeling, practice mindfulness, or meditate!',
 	link: 'https://www.nytimes.com/guides/well/how-to-meditate'
 }
 ]

@@ -15,7 +15,7 @@ class Menu extends React.Component {
 	render() {
 		const {options} = this.props;
 		return(
-			<div className='body'>
+			<div className='body pad'>
 				{
 					options.map((option, i) => {
 						return (
