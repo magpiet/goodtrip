@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4b91dbc9bd9c058e9ae01a2fb7751db",
+    "revision": "f9d683cb1f08f0151dae1bd0300ec985",
     "url": "/goodtrip/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goodtrip/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "46fa742a3c7a027a85b2",
-    "url": "/goodtrip/static/css/main.671c93cf.chunk.css"
+    "revision": "0a381d1bbee6c40b93ee",
+    "url": "/goodtrip/static/css/main.93563a45.chunk.css"
   },
   {
     "revision": "71bbaeb76ca0fd16ea7e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goodtrip/static/js/2.cf881633.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46fa742a3c7a027a85b2",
-    "url": "/goodtrip/static/js/main.e598a601.chunk.js"
+    "revision": "0a381d1bbee6c40b93ee",
+    "url": "/goodtrip/static/js/main.559a9192.chunk.js"
   },
   {
     "revision": "e15c5120db9dc23a85a7",
