@@ -1,6 +1,5 @@
 import React from 'react';
 import Cards from './Cards';
-import logo from './logo512.png';
 import './Menu.css'
 
 class Menu extends React.Component {
@@ -16,7 +15,7 @@ class Menu extends React.Component {
 	render() {
 		const {options} = this.props;
 		return(
-			<div className='back'>
+			<div className='body'>
 				{
 					options.map((option, i) => {
 						return (
