@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/goodtrip/static/css/main.c3bf4ebb.chunk.css",
-    "main.js": "/goodtrip/static/js/main.559a9192.chunk.js",
-    "main.js.map": "/goodtrip/static/js/main.559a9192.chunk.js.map",
+    "main.js": "/goodtrip/static/js/main.f43a219a.chunk.js",
+    "main.js.map": "/goodtrip/static/js/main.f43a219a.chunk.js.map",
     "runtime-main.js": "/goodtrip/static/js/runtime-main.373d67f9.js",
     "runtime-main.js.map": "/goodtrip/static/js/runtime-main.373d67f9.js.map",
     "static/css/2.3c03f26f.chunk.css": "/goodtrip/static/css/2.3c03f26f.chunk.css",
     "static/js/2.cf881633.chunk.js": "/goodtrip/static/js/2.cf881633.chunk.js",
     "static/js/2.cf881633.chunk.js.map": "/goodtrip/static/js/2.cf881633.chunk.js.map",
     "index.html": "/goodtrip/index.html",
-    "precache-manifest.09a6912a904ebc423cca128382a4ff30.js": "/goodtrip/precache-manifest.09a6912a904ebc423cca128382a4ff30.js",
+    "precache-manifest.ed589a1d4a9ecf6b07be3840b6a9f317.js": "/goodtrip/precache-manifest.ed589a1d4a9ecf6b07be3840b6a9f317.js",
     "service-worker.js": "/goodtrip/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/goodtrip/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.c3bf4ebb.chunk.css.map": "/goodtrip/static/css/main.c3bf4ebb.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.cf881633.chunk.js",
     "static/css/main.c3bf4ebb.chunk.css",
-    "static/js/main.559a9192.chunk.js"
+    "static/js/main.f43a219a.chunk.js"
   ]
 }
