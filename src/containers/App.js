@@ -2,9 +2,9 @@ import React from 'react';
 import logo from './logo512.png';
 import './App.css';
 import 'tachyons';
-import sza from './sza.mp3';
 import Menu from '../components/Menu';
 import {options} from '../components/options';
+import birds from './birds.mp3';
 
 class App extends React.Component {
   constructor() {
@@ -13,7 +13,7 @@ class App extends React.Component {
       play: true,
       route: 'home'
     }
-    this.audio = new Audio(sza);
+    this.audio = new Audio(birds);
   }
 
   playAudio = () => {
@@ -27,7 +27,11 @@ class App extends React.Component {
   }
 
   onClickImage = () => {
-    this.onRouteChange('menu');
+    if (this.state.route === 'home') {
+      this.onRouteChange('menu');
+    } else {
+      this.onRouteChange('home');
+    }
   }
 
   onRouteChange = (route) => {
