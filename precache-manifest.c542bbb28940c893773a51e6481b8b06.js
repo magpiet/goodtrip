@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fd62c5aceadd3796c2a3365d4f4b2d5",
+    "revision": "02fea7b50406036e44ab60098b882a47",
     "url": "/goodtrip/index.html"
   },
   {
-    "revision": "71bbaeb76ca0fd16ea7e",
+    "revision": "95bd9b27239b62d7f017",
     "url": "/goodtrip/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "b0bdaf04a30997931563",
-    "url": "/goodtrip/static/css/main.f1ae9c2c.chunk.css"
+    "revision": "c6b76637f4684084e54c",
+    "url": "/goodtrip/static/css/main.3b53c17d.chunk.css"
   },
   {
-    "revision": "71bbaeb76ca0fd16ea7e",
-    "url": "/goodtrip/static/js/2.cf881633.chunk.js"
+    "revision": "95bd9b27239b62d7f017",
+    "url": "/goodtrip/static/js/2.631f6a42.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/goodtrip/static/js/2.cf881633.chunk.js.LICENSE.txt"
+    "url": "/goodtrip/static/js/2.631f6a42.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0bdaf04a30997931563",
-    "url": "/goodtrip/static/js/main.485cd043.chunk.js"
+    "revision": "c6b76637f4684084e54c",
+    "url": "/goodtrip/static/js/main.ed83250b.chunk.js"
   },
   {
     "revision": "e15c5120db9dc23a85a7",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goodtrip/static/media/heart512.1feb2a28.png"
   },
   {
+    "revision": "8974839d7de9e68f406f278888502e08",
+    "url": "/goodtrip/static/media/jungle512.8974839d.png"
+  },
+  {
     "revision": "cfc2d9d087d1ef49b1907b00020af29f",
     "url": "/goodtrip/static/media/logo512.cfc2d9d0.png"
   },
@@ -58,5 +62,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "833d18e6bc0b53dd4e0f781fd8fbdd11",
     "url": "/goodtrip/static/media/space512.833d18e6.png"
+  },
+  {
+    "revision": "760856bfd6fd73da3a69efec4d1fe915",
+    "url": "/goodtrip/static/media/sun512.760856bf.png"
   }
 ]);
