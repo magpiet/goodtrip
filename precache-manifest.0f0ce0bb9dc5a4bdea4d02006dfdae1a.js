@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02fea7b50406036e44ab60098b882a47",
+    "revision": "c9c85d0efe73c1c401a1e82f58dfaf67",
     "url": "/goodtrip/index.html"
   },
   {
-    "revision": "95bd9b27239b62d7f017",
+    "revision": "c3d5a49ec77af15408f7",
     "url": "/goodtrip/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "c6b76637f4684084e54c",
+    "revision": "a81e1f08924e8cdeb1cb",
     "url": "/goodtrip/static/css/main.3b53c17d.chunk.css"
   },
   {
-    "revision": "95bd9b27239b62d7f017",
-    "url": "/goodtrip/static/js/2.631f6a42.chunk.js"
+    "revision": "c3d5a49ec77af15408f7",
+    "url": "/goodtrip/static/js/2.9974f41a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/goodtrip/static/js/2.631f6a42.chunk.js.LICENSE.txt"
+    "url": "/goodtrip/static/js/2.9974f41a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6b76637f4684084e54c",
-    "url": "/goodtrip/static/js/main.ed83250b.chunk.js"
+    "revision": "a81e1f08924e8cdeb1cb",
+    "url": "/goodtrip/static/js/main.627c1725.chunk.js"
   },
   {
     "revision": "e15c5120db9dc23a85a7",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0b4460dc094d5ef9021822c08ef05023",
     "url": "/goodtrip/static/media/book512.0b4460dc.png"
+  },
+  {
+    "revision": "9969f61d2bbc6755785c1c1a2e5c11a6",
+    "url": "/goodtrip/static/media/files512.9969f61d.png"
   },
   {
     "revision": "1feb2a289a4a665c8f011d59224a7cc2",

@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/goodtrip/static/css/main.3b53c17d.chunk.css",
-    "main.js": "/goodtrip/static/js/main.ed83250b.chunk.js",
-    "main.js.map": "/goodtrip/static/js/main.ed83250b.chunk.js.map",
+    "main.js": "/goodtrip/static/js/main.627c1725.chunk.js",
+    "main.js.map": "/goodtrip/static/js/main.627c1725.chunk.js.map",
     "runtime-main.js": "/goodtrip/static/js/runtime-main.373d67f9.js",
     "runtime-main.js.map": "/goodtrip/static/js/runtime-main.373d67f9.js.map",
     "static/css/2.3c03f26f.chunk.css": "/goodtrip/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.631f6a42.chunk.js": "/goodtrip/static/js/2.631f6a42.chunk.js",
-    "static/js/2.631f6a42.chunk.js.map": "/goodtrip/static/js/2.631f6a42.chunk.js.map",
+    "static/js/2.9974f41a.chunk.js": "/goodtrip/static/js/2.9974f41a.chunk.js",
+    "static/js/2.9974f41a.chunk.js.map": "/goodtrip/static/js/2.9974f41a.chunk.js.map",
     "index.html": "/goodtrip/index.html",
-    "precache-manifest.c542bbb28940c893773a51e6481b8b06.js": "/goodtrip/precache-manifest.c542bbb28940c893773a51e6481b8b06.js",
+    "precache-manifest.0f0ce0bb9dc5a4bdea4d02006dfdae1a.js": "/goodtrip/precache-manifest.0f0ce0bb9dc5a4bdea4d02006dfdae1a.js",
     "service-worker.js": "/goodtrip/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/goodtrip/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.3b53c17d.chunk.css.map": "/goodtrip/static/css/main.3b53c17d.chunk.css.map",
-    "static/js/2.631f6a42.chunk.js.LICENSE.txt": "/goodtrip/static/js/2.631f6a42.chunk.js.LICENSE.txt",
+    "static/js/2.9974f41a.chunk.js.LICENSE.txt": "/goodtrip/static/js/2.9974f41a.chunk.js.LICENSE.txt",
     "static/media/art512.png": "/goodtrip/static/media/art512.a1274c70.png",
     "static/media/birds.mp3": "/goodtrip/static/media/birds.34b01412.mp3",
     "static/media/book512.png": "/goodtrip/static/media/book512.0b4460dc.png",
+    "static/media/files512.png": "/goodtrip/static/media/files512.9969f61d.png",
     "static/media/heart512.png": "/goodtrip/static/media/heart512.1feb2a28.png",
     "static/media/jungle512.png": "/goodtrip/static/media/jungle512.8974839d.png",
     "static/media/logo512.png": "/goodtrip/static/media/logo512.cfc2d9d0.png",
@@ -28,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.373d67f9.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.631f6a42.chunk.js",
+    "static/js/2.9974f41a.chunk.js",
     "static/css/main.3b53c17d.chunk.css",
-    "static/js/main.ed83250b.chunk.js"
+    "static/js/main.627c1725.chunk.js"
   ]
 }
