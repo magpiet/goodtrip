@@ -6,6 +6,7 @@ import space from './space512.png';
 import heart from './heart512.png';
 import sun from './sun512.png';
 import jungle from './jungle512.png';
+import files from './files512.png';
 
 export const options = [
 {
@@ -32,11 +33,18 @@ export const options = [
 	about: 'Feeling a little tranquil? Watch the sky from a beautiful beach as the sun sets into a peaceful and ebony night!',
 	link: 'https://www.youtube.com/watch?v=jEnd8JIMii4'
 },
+
 {
 	image: jungle,
 	name: 'Jungle',
 	about: 'Feeling a little wild? Take an acoustically and visually stunning journey through the alluring jungle!',
 	link: 'https://www.youtube.com/watch?v=yVOw5fsUCfQ'
+},
+{
+	image: space,
+	name: 'Alan Watts',
+	about: 'Feeling a little dreamy? Here are some words from Alan Watts, a powerful writer and explorer of consciousness!',
+	link: 'https://www.youtube.com/watch?v=h7W6fYbmF8U&list=PLDrE8eovyz8DQHrs2BXdVIYgRdRMVsjOb&index=1'
 },
 {
 	image: book,
@@ -45,10 +53,10 @@ export const options = [
 	link: 'https://en.wikipedia.org/wiki/Main_Page'
 },
 {
-	image: space,
-	name: 'Alan Watts',
-	about: 'Feeling a little dreamy? Here are some words from Alan Watts, a powerful writer and explorer of consciousness!',
-	link: 'https://www.youtube.com/watch?v=h7W6fYbmF8U&list=PLDrE8eovyz8DQHrs2BXdVIYgRdRMVsjOb&index=1'
+	image: files,
+	name: 'Internet Archive',
+	about: 'Feeling a little inquisitive? Find your way through the Internet Archive, home of countless free books, movies, other media!',
+	link: 'https://archive.org/'
 },
 {
 	image: art,
