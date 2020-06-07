@@ -7,6 +7,7 @@ import heart from './heart512.png';
 import sun from './sun512.png';
 import jungle from './jungle512.png';
 import files from './files512.png';
+import flower from './flower512.png';
 
 export const options = [
 {
@@ -20,6 +21,12 @@ export const options = [
 	name: 'Lo-Fi Beats',
 	about: 'Feeling a little stressed? Dive into some music with a hypnotic bass and velvet melodies!',
 	link: 'https://www.youtube.com/watch?v=-5KAN9_CzSA'
+},
+{
+	image: flower,
+	name: 'Tropical Beats',
+	about: 'Feeling a little blue? Let these lush and groovy beats take you to a peaceful place where you can really dig the sound!',
+	link: 'https://www.youtube.com/watch?v=EVzoCmhwdCU'
 },
 {
 	image: planet,
