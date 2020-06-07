@@ -55,13 +55,13 @@ export const options = [
 {
 	image: files,
 	name: 'Internet Archive',
-	about: 'Feeling a little inquisitive? Find your way through the Internet Archive, home of countless free books, movies, other media!',
+	about: 'Feeling a little inquisitive? Find your way through the Internet Archive, home of countless free books, movies, and other media!',
 	link: 'https://archive.org/'
 },
 {
 	image: art,
 	name: 'Art Palette',
-	about: 'Feeling a little creative? Take your imagination and this palette to paint whatever you feel like creating!',
+	about: 'Feeling a little creative? Take your imagination with this palette to paint whatever you feel like creating!',
 	link: 'https://sumo.app/paint/en'
 },
 ]
